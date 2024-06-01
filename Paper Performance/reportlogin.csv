@@ -1,0 +1,11 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1717255272596,882,login,200,OK,Thread Group 1-1,text,true,,866,238,9,9,https://reqres.in/api/login,882,0,91
+1717255272898,875,login,200,OK,Thread Group 1-4,text,true,,866,238,9,9,https://reqres.in/api/login,875,0,83
+1717255272705,1155,login,200,OK,Thread Group 1-2,text,true,,866,238,8,8,https://reqres.in/api/login,1155,0,85
+1717255272799,1159,login,200,OK,Thread Group 1-3,text,true,,866,238,7,7,https://reqres.in/api/login,1159,0,84
+1717255273007,1197,login,200,OK,Thread Group 1-5,text,true,,866,238,6,6,https://reqres.in/api/login,1196,0,85
+1717255273300,930,login,200,OK,Thread Group 1-8,text,true,,866,238,5,5,https://reqres.in/api/login,930,0,90
+1717255273102,1170,login,200,OK,Thread Group 1-6,text,true,,866,238,4,4,https://reqres.in/api/login,1170,0,84
+1717255273399,889,login,200,OK,Thread Group 1-9,text,true,,866,238,3,3,https://reqres.in/api/login,889,0,81
+1717255273499,2240,login,200,OK,Thread Group 1-10,text,true,,870,238,2,2,https://reqres.in/api/login,2240,0,97
+1717255273199,2688,login,200,OK,Thread Group 1-7,text,true,,866,238,1,1,https://reqres.in/api/login,2688,0,77
