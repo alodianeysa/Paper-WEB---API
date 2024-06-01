@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btn_simpan1</name>
+   <tag></tag>
+   <elementGuidId>2b464477-e57d-4782-8a47-93d2c4b64512</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//mat-dialog-container[@id='mat-mdc-dialog-1']/div/div/create-partner-dialog/form/mat-dialog-actions/div/ul/li/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.dropdown-item.ng-tns-c839360206-14</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>af0305f4-9077-408d-8a4d-6519b81304c0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dropdown-item ng-tns-c839360206-14</value>
+      <webElementGuid>5e6a5792-17a2-4f61-90b2-fbb3803658f8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Simpan </value>
+      <webElementGuid>c8a2f590-4541-4c7e-afc5-5284a78dd2d0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mat-mdc-dialog-1&quot;)/div[@class=&quot;mdc-dialog__container&quot;]/div[@class=&quot;mat-mdc-dialog-surface mdc-dialog__surface&quot;]/create-partner-dialog[@class=&quot;ng-tns-c839360206-14 ng-star-inserted&quot;]/form[@class=&quot;ng-tns-c839360206-14 ng-untouched ng-pristine ng-invalid&quot;]/mat-dialog-actions[@class=&quot;mat-mdc-dialog-actions mdc-dialog__actions ng-tns-c839360206-14&quot;]/div[@class=&quot;btn-group ng-tns-c839360206-14 ng-star-inserted open show&quot;]/ul[@class=&quot;dropdown-menu ng-tns-c839360206-14 show ng-star-inserted&quot;]/li[@class=&quot;ng-tns-c839360206-14&quot;]/a[@class=&quot;dropdown-item ng-tns-c839360206-14&quot;]</value>
+      <webElementGuid>98f7605b-2389-47b0-8f29-563809a30807</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//mat-dialog-container[@id='mat-mdc-dialog-1']/div/div/create-partner-dialog/form/mat-dialog-actions/div/ul/li/a</value>
+      <webElementGuid>7ab79bcf-a16f-43a4-9d95-3e4b9e292f71</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Simpan')]</value>
+      <webElementGuid>88678a65-835c-4a2e-83a3-3be71a27792b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Simpan'])[1]/following::a[1]</value>
+      <webElementGuid>731d59c3-edf5-4572-aa44-c41103309c35</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Catatan'])[1]/following::a[1]</value>
+      <webElementGuid>66c1e3a5-2d50-473e-819e-9fdad7e8c52e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Simpan dan Undang'])[1]/preceding::a[1]</value>
+      <webElementGuid>91480c31-21d5-4053-93cb-ea53b12225ea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Batal'])[1]/preceding::a[2]</value>
+      <webElementGuid>b6679ee6-a8fb-4ae5-acee-3ee337f93b9f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//mat-dialog-actions/div/ul/li/a</value>
+      <webElementGuid>9cdc32f5-97ca-49ad-907a-378190925dc4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[(text() = ' Simpan ' or . = ' Simpan ')]</value>
+      <webElementGuid>52664ee2-7340-40c9-a67d-44fa9853eed4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

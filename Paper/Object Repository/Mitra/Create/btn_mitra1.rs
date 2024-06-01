@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btn_mitra1</name>
+   <tag></tag>
+   <elementGuidId>6304a80f-1bb1-45c8-9414-b9e9569c8e6c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;aside&quot;]/ng-scrollbar/div/div/div/div/div/ul/li[2]/ul/li[1]/a/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;aside&quot;]/ng-scrollbar/div/div/div/div/div/ul/li[2]/ul/li[1]/a/span</value>
+      <webElementGuid>15c6c45f-8d51-4bd4-9f3d-c00687139df1</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>
